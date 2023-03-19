@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Inioluwa2003/Frontend-mentor-product-preview-card-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-page-using-css-grid-_g3DUAYdrk)
 - Live Site URL: (https://inioluwa2003.github.io/Frontend-mentor-product-preview-card-component/)
 
 ## My process
