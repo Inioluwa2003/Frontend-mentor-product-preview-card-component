@@ -53,3 +53,4 @@ body{
 
 - Frontend Mentor - [@Inioluwa2003](https://www.frontendmentor.io/profile/Inioluwa2003)
 - Twitter - [@ini_adeyemo](https://www.twitter.com/ini_adeyemo)
+- LinkedIn- [Adeyemo Inioluwa](https://www.linkedin.com/mwlite/in/adeyemo-inioluwa-497299246)
